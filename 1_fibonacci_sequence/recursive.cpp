@@ -1,3 +1,6 @@
+//time complexity O(2^n)
+//space complexity O(n)
+
 #include<bits/stdc++.h>
 using namespace std;
 
