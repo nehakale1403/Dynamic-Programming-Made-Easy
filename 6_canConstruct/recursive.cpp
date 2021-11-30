@@ -1,3 +1,6 @@
+//time complexity: O(n^m *m)
+//space complexity: O(m)
+
 #include<bits/stdc++.h>
 using namespace std;
 
